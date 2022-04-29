@@ -1,3 +1,4 @@
 # project-connect-four
-Connect four project
+Connect four project - Drummond
 -Kenny Lazarre
+
